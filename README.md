@@ -25,7 +25,7 @@ A classic Snake game built using Python and Pygame. Eat the red squares to grow 
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/CollectorCS/snake-game.git
    cd snake-game
 2. **Install Pygame**
 pip install pygame
